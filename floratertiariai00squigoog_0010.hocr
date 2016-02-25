@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./floratertiariai00squigoog/floratertiariai00squigoog_0010.png"; bbox 0 0 3818 5534; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 221 2097 1370 2265">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 221 2097 1370 2265">
+     <span class='ocr_line' id='line_1_1' title="bbox 221 2097 1370 2265; baseline 0 -7"><span class='ocrx_word' id='word_1_1' title='bbox 221 2098 489 2265; x_wconf 66' lang='lat' dir='ltr'>FLORA</span> <span class='ocrx_word' id='word_1_2' title='bbox 545 2097 997 2259; x_wconf 68' lang='lat' dir='ltr'>TER&#39;l‘IARlA</span> <span class='ocrx_word' id='word_1_3' title='bbox 1049 2097 1370 2262; x_wconf 73' lang='lat' dir='ltr'><strong>l&#39;sALlCA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1914 5534">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1914 5534">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1914 5534; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 0 0 1914 5534; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
