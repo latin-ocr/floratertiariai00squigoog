@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./floratertiariai00squigoog/floratertiariai00squigoog_0016.png"; bbox 0 0 3818 5534; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 361 1411 1327 2342">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 361 1411 1327 2342">
+     <span class='ocr_line' id='line_1_1' title="bbox 361 1411 1327 1540; baseline -0.001 0"><span class='ocrx_word' id='word_1_1' title='bbox 361 1412 621 1540; x_wconf 76' lang='lat' dir='ltr'><strong>CAROLO</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 659 1411 1037 1539; x_wconf 78' lang='lat' dir='ltr'>THEOPfflLO</span> <span class='ocrx_word' id='word_1_3' title='bbox 1077 1411 1327 1540; x_wconf 76' lang='lat' dir='ltr'><strong>GAUDJN</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 416 1721 1307 1929; baseline -0.002 0"><span class='ocrx_word' id='word_1_4' title='bbox 416 1800 786 1929; x_wconf 77' lang='lat' dir='ltr'><strong>ABRAHAMO</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 824 1721 1307 1928; x_wconf 36' lang='lat' dir='ltr'>MASSALONGO&#39;</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 534 2184 1152 2342; baseline -0.003 -27"><span class='ocrx_word' id='word_1_6' title='bbox 534 2184 1152 2342; x_wconf 58' lang='lat' dir='ltr'><em>mmmmm</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 285 2571 1406 2725">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 285 2542 1577 2725">
+     <span class='ocr_line' id='line_1_4' title="bbox 285 2571 1406 2725; baseline -0.002 -24"><span class='ocrx_word' id='word_1_7' title='bbox 285 2571 1406 2725; x_wconf 55' lang='lat' dir='ltr'><strong>mmfflmfflwwffiffi</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 533 2853 1046 3086">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 533 2853 1046 3086">
+     <span class='ocr_line' id='line_1_5' title="bbox 533 2853 1046 3086; baseline -0.006 0"><span class='ocrx_word' id='word_1_8' title='bbox 533 2853 539 2865; x_wconf 42' lang='lat'><em>*</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 641 2956 1046 3086; x_wconf 83' lang='lat' dir='ltr'><strong>PRINCIPIBUS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1914 5534">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1914 5534">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1914 5534; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1914 5534; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
